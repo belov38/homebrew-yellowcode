@@ -1,15 +1,15 @@
-# Yellowcode Homebrew tap
+# Yellowcode: Homebrew tap
 
 ```sh
 brew install --cask belov38/yellowcode/yellowcode
 ```
 
-Early alpha for macOS Apple Silicon. Downloads and launch instructions:
-https://github.com/belov38/yellowcode
+Предварительная (альфа) версия для macOS на Apple Silicon. Приложение подписано Developer ID и заверено Apple.
+Описание, сборка для Windows и все выпуски: https://github.com/belov38/yellowcode
+
+Обновление:
 
 ```sh
 brew update
-brew upgrade --cask yellowcode
+brew upgrade --cask belov38/yellowcode/yellowcode
 ```
-
-The alpha is not Developer ID signed or notarized. If macOS blocks the app, use System Settings → Privacy & Security → Open Anyway after attempting to launch it.
