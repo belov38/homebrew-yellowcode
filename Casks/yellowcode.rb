@@ -1,6 +1,6 @@
 cask "yellowcode" do
-  version "0.1.0-alpha.20"
-  sha256 "a797de787f78d375e7085d4afa88afe8123dc4a0f996e8078e8eca86104890ae"
+  version "0.1.0-alpha.21"
+  sha256 "b1922aca8cdc9b60f303eb16fc73f73725b6d9b02699aff0bc6ea8a9950fa12c"
 
   url "https://github.com/belov38/yellowcode/releases/download/v#{version}/Yellowcode-#{version}-macos-arm64.zip"
   name "Yellowcode"
